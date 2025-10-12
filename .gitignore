@@ -1,2 +1,7 @@
 # Git ignore rules:
+
+# Folder with icons:
 Icons/
+
+# Hidden windows folder with metadata about how the folder should look:
+desktop.ini
