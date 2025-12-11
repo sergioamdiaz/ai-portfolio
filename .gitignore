@@ -1,7 +1,11 @@
+ld
 # Git ignore rules:
 
 # Folder with icons:
 Icons/
+
+# Docs Folder:
+Docs/
 
 # Hidden windows folder with metadata about how the folder should look:
 desktop.ini
